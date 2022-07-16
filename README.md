@@ -10,7 +10,8 @@ If you dont even want that to be here I'm gonna remove it.
   
 If anyone has problems applying this Theme, message me on Discord *(contacting below)*  
 
-![background]()
+![background](https://user-images.githubusercontent.com/95208721/179351451-8a718bc8-7f55-483d-af97-fef1d4d02bed.png)
+
   
 # About this Theme
 The Midnight Theme is a minimalistic Theme with a dark and simple Background. All the Icons are
