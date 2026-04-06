@@ -48,6 +48,7 @@ Im gonna do a step-by-step guide on how you can apply this Theme.
   
 
 # Contacting me
-Discord: 𝙿𝚊𝚛𝚊𝚍𝚘𝚡#2871  
+Discord: @paradox6n
+
 If Discord doesnt work, contact me via E-Mail:  
 pararadox.1937@gmail.com  
